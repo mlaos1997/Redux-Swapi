@@ -14,7 +14,6 @@
 - This pattern is commonly used:
 
 ```
-comment
 src
   actions
     - index.js
